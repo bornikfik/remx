@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "module": "CommonJS",
+        "moduleResolution": "node",
+        "declaration": true, // creates d.ts type declarations
+        "declarationMap": true, // creates map files for our d.ts files
+        "sourceMap": true, // creates map files for our source code
+        "outDir": "./build", // compile source code into "bin" folder
+        "strict": true,
+        "forceConsistentCasingInFileNames": true,
+        "noImplicitAny": true,
+        "esModuleInterop": true
+    },
+    "include": [
+        "index.ts"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}

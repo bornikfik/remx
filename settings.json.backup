@@ -1,0 +1,22 @@
+{
+    "workbench.sideBar.location": "right",
+    "workbench.colorTheme": "React Theme",
+    "editor.detectIndentation": false,
+    "editor.fontFamily": "\"FiraCode Nerd Font\",Consolas, 'Courier New', monospace",
+    "workbench.iconTheme": "eq-material-theme-icons-darker",
+    "editor.fontLigatures": true,
+    "workbench.layoutControl.enabled": false,
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "git.autofetch": true,
+    "apc.electron": {
+        "backgroundColor": "2A2E3D"
+    },
+    "workbench.activityBar.location": "top",
+    "workbench.statusBar.visible": false,
+    "editor.minimap.autohide": true
+}
